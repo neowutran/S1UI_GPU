@@ -1,0 +1,6 @@
+c:\users\game\documents\visual studio 2017\Projects\ActivateGPUS1UI\ActivateGPUS1UI\bin\Debug\ActivateGPUS1UI.exe.config
+c:\users\game\documents\visual studio 2017\Projects\ActivateGPUS1UI\ActivateGPUS1UI\bin\Debug\ActivateGPUS1UI.exe
+c:\users\game\documents\visual studio 2017\Projects\ActivateGPUS1UI\ActivateGPUS1UI\bin\Debug\ActivateGPUS1UI.pdb
+c:\users\game\documents\visual studio 2017\Projects\ActivateGPUS1UI\ActivateGPUS1UI\obj\Debug\ActivateGPUS1UI.csprojResolveAssemblyReference.cache
+c:\users\game\documents\visual studio 2017\Projects\ActivateGPUS1UI\ActivateGPUS1UI\obj\Debug\ActivateGPUS1UI.exe
+c:\users\game\documents\visual studio 2017\Projects\ActivateGPUS1UI\ActivateGPUS1UI\obj\Debug\ActivateGPUS1UI.pdb
