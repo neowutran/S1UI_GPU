@@ -3,7 +3,7 @@ Force GPU use for Tera UI instead of CPU only.
 Sometimes can increase the average FPS by around ~10 
 
 Processed files (EU, but should work for others regions too):
-- https://neowutran.ovh/files-storage/Others/YUKIKOO-2017-08-15_S1UI.7z
+- https://neowutran.ovh/files-storage/Others/YUKIKOO-2017-09-11_S1UI.7z
 
 ## Usage:
 V1) 
