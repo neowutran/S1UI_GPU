@@ -2,7 +2,7 @@
 Force GPU use for Tera UI instead of CPU only. 
 Sometimes can increase the average FPS by around ~10 
 
-Processed files (EU):
+Processed files (EU, but should work for others regions too):
 - https://neowutran.ovh/files-storage/Others/YUKIKOO-2017-08-15_S1UI.7z
 
 ## Usage:
@@ -21,4 +21,3 @@ V2)
 Example:
 ```D:\!Git\S1UI_GPU\ActivateGPUS1UI\bin\Release>ActivateGPUS1UI.exe "Z:\Tera\Client\S1Game\CookedPC\Art_Data\Packages\S1UI"```
 4. Wait till "Done!" message
-
