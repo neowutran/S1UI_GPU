@@ -21,3 +21,8 @@ V2)
 Example:
 ```D:\!Git\S1UI_GPU\ActivateGPUS1UI\bin\Release>ActivateGPUS1UI.exe "Z:\Tera\Client\S1Game\CookedPC\Art_Data\Packages\S1UI"```
 4. Wait till "Done!" message
+
+V3)
+1. Unzip ALL files
+2. Drag and drop your gpk folder to ActivateGPUS1UI.exe
+3. Wait till "Done!" message
