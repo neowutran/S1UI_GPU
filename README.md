@@ -1,6 +1,7 @@
 # S1UI_GPU
 
 Force GPU use for Tera UI instead of CPU only. 
+
 Sometimes can increase the average FPS by around ~10 (for potatoes pc)
 
 DOWNLOAD LINK: https://github.com/neowutran/S1UI_GPU/releases/tag/1.0.0.0
@@ -23,6 +24,7 @@ Way 2:
 
 Example:
 ```D:\!Git\S1UI_GPU\ActivateGPUS1UI\bin\Release>ActivateGPUS1UI.exe "Z:\Tera\Client\S1Game\CookedPC\Art_Data\Packages\S1UI"```
+
 4. Wait till "Done!" message
 
 Way 3:
